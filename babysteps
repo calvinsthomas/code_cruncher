@@ -1,0 +1,10 @@
+def class_clown(jokes):
+  for student_x in jokes:
+  	student_x == "good"
+  # student_x is in question, return class clown or wannabe if he does or doesn't tell good jokes
+	if student_x == "good":
+		return "class clown"
+	if student_x == "bad":
+		return "class clown wannabe"
+	print jokes
+  # Thanks for viewing my first public code, stay tuned for more!
